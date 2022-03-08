@@ -1,0 +1,95 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20220202)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.5725227 Released 2021-11-16
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO cellular component complete	Homo sapiens - REFLIST (20595)	upload_1 (61)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+IgG immunoglobulin complex (GO:0071735)	4	2	.01	+	 > 100	1.28E-04	5.28E-03
+MHC class II protein complex (GO:0042613)	18	7	.05	+	 > 100	6.33E-13	6.41E-10
+MHC protein complex (GO:0042611)	26	7	.08	+	90.90	5.52E-12	3.73E-09
+chromaffin granule (GO:0042583)	14	2	.04	+	48.23	1.00E-03	2.78E-02
+integral component of lumenal side of endoplasmic reticulum membrane (GO:0071556)	29	4	.09	+	46.57	2.64E-06	2.14E-04
+lumenal side of endoplasmic reticulum membrane (GO:0098553)	29	4	.09	+	46.57	2.64E-06	2.06E-04
+lamellar body (GO:0042599)	17	2	.05	+	39.72	1.42E-03	3.60E-02
+lumenal side of membrane (GO:0098576)	36	4	.11	+	37.51	5.81E-06	3.68E-04
+ER to Golgi transport vesicle membrane (GO:0012507)	61	5	.18	+	27.67	1.48E-06	1.36E-04
+clathrin-coated endocytic vesicle (GO:0045334)	91	7	.27	+	25.97	1.54E-08	2.40E-06
+COPII-coated ER to Golgi transport vesicle (GO:0030134)	93	6	.28	+	21.78	4.67E-07	5.26E-05
+multivesicular body (GO:0005771)	63	4	.19	+	21.44	4.59E-05	2.11E-03
+clathrin-coated endocytic vesicle membrane (GO:0030669)	72	4	.21	+	18.76	7.53E-05	3.25E-03
+cytosolic large ribosomal subunit (GO:0022625)	58	3	.17	+	17.46	7.81E-04	2.26E-02
+cytosolic ribosome (GO:0022626)	103	5	.31	+	16.39	1.68E-05	9.19E-04
+clathrin-coated vesicle (GO:0030136)	195	8	.58	+	13.85	1.43E-07	1.93E-05
+trans-Golgi network membrane (GO:0032588)	101	4	.30	+	13.37	2.63E-04	8.61E-03
+integral component of endoplasmic reticulum membrane (GO:0030176)	168	6	.50	+	12.06	1.24E-05	7.18E-04
+clathrin-coated vesicle membrane (GO:0030665)	113	4	.33	+	11.95	3.98E-04	1.20E-02
+blood microparticle (GO:0072562)	144	5	.43	+	11.72	7.85E-05	3.31E-03
+coated vesicle (GO:0030135)	292	10	.86	+	11.56	1.80E-08	2.60E-06
+intrinsic component of endoplasmic reticulum membrane (GO:0031227)	176	6	.52	+	11.51	1.60E-05	9.01E-04
+transport vesicle membrane (GO:0030658)	210	6	.62	+	9.65	4.19E-05	1.98E-03
+coated vesicle membrane (GO:0030662)	177	5	.52	+	9.54	2.01E-04	7.01E-03
+ribosomal subunit (GO:0044391)	180	5	.53	+	9.38	2.16E-04	7.43E-03
+endocytic vesicle (GO:0030139)	342	9	1.01	+	8.88	8.49E-07	8.20E-05
+endocytic vesicle membrane (GO:0030666)	194	5	.57	+	8.70	3.03E-04	9.45E-03
+specific granule (GO:0042581)	160	4	.47	+	8.44	1.41E-03	3.61E-02
+secretory granule lumen (GO:0034774)	321	8	.95	+	8.41	5.38E-06	3.63E-04
+cytoplasmic vesicle lumen (GO:0060205)	324	8	.96	+	8.34	5.75E-06	3.76E-04
+vesicle lumen (GO:0031983)	326	8	.97	+	8.29	6.00E-06	3.69E-04
+tertiary granule (GO:0070820)	164	4	.49	+	8.23	1.54E-03	3.84E-02
+late endosome (GO:0005770)	287	7	.85	+	8.23	2.49E-05	1.33E-03
+ribosome (GO:0005840)	223	5	.66	+	7.57	5.64E-04	1.68E-02
+lytic vacuole membrane (GO:0098852)	407	8	1.21	+	6.64	2.88E-05	1.50E-03
+lysosomal membrane (GO:0005765)	407	8	1.21	+	6.64	2.88E-05	1.46E-03
+trans-Golgi network (GO:0005802)	263	5	.78	+	6.42	1.16E-03	3.15E-02
+collagen-containing extracellular matrix (GO:0062023)	427	8	1.26	+	6.33	4.02E-05	1.94E-03
+integral component of organelle membrane (GO:0031301)	389	7	1.15	+	6.08	1.62E-04	5.95E-03
+vacuolar membrane (GO:0005774)	453	8	1.34	+	5.96	6.05E-05	2.72E-03
+transport vesicle (GO:0030133)	409	7	1.21	+	5.78	2.18E-04	7.38E-03
+intrinsic component of organelle membrane (GO:0031300)	419	7	1.24	+	5.64	2.52E-04	8.39E-03
+lytic vacuole (GO:0000323)	731	12	2.17	+	5.54	1.48E-06	1.31E-04
+lysosome (GO:0005764)	731	12	2.17	+	5.54	1.48E-06	1.25E-04
+secretory granule (GO:0030141)	870	14	2.58	+	5.43	2.15E-07	2.73E-05
+secretory vesicle (GO:0099503)	1032	15	3.06	+	4.91	2.66E-07	3.17E-05
+vacuole (GO:0005773)	828	12	2.45	+	4.89	5.25E-06	3.67E-04
+focal adhesion (GO:0005925)	420	6	1.24	+	4.82	1.58E-03	3.91E-02
+extracellular matrix (GO:0031012)	569	8	1.69	+	4.75	2.83E-04	9.09E-03
+external encapsulating structure (GO:0030312)	570	8	1.69	+	4.74	2.86E-04	9.05E-03
+cell-substrate junction (GO:0030055)	429	6	1.27	+	4.72	1.76E-03	4.30E-02
+cell surface (GO:0009986)	966	13	2.86	+	4.54	4.44E-06	3.21E-04
+endosome membrane (GO:0010008)	528	7	1.56	+	4.48	9.78E-04	2.75E-02
+side of membrane (GO:0098552)	690	9	2.04	+	4.40	1.99E-04	7.06E-03
+extracellular exosome (GO:0070062)	2098	26	6.21	+	4.18	5.99E-11	3.03E-08
+extracellular vesicle (GO:1903561)	2120	26	6.28	+	4.14	7.53E-11	3.05E-08
+extracellular organelle (GO:0043230)	2121	26	6.28	+	4.14	7.61E-11	2.57E-08
+extracellular membrane-bounded organelle (GO:0065010)	2121	26	6.28	+	4.14	7.61E-11	2.20E-08
+endosome (GO:0005768)	999	12	2.96	+	4.06	3.34E-05	1.65E-03
+plasma membrane protein complex (GO:0098797)	710	8	2.10	+	3.80	1.19E-03	3.16E-02
+cytoplasmic vesicle (GO:0031410)	2458	27	7.28	+	3.71	3.26E-10	8.27E-08
+intracellular vesicle (GO:0097708)	2461	27	7.29	+	3.70	3.36E-10	7.56E-08
+endoplasmic reticulum membrane (GO:0005789)	1151	12	3.41	+	3.52	1.28E-04	5.20E-03
+endoplasmic reticulum subcompartment (GO:0098827)	1156	12	3.42	+	3.50	1.34E-04	5.21E-03
+nuclear outer membrane-endoplasmic reticulum membrane network (GO:0042175)	1173	12	3.47	+	3.45	1.53E-04	5.85E-03
+cytoplasmic vesicle membrane (GO:0030659)	1175	12	3.48	+	3.45	1.56E-04	5.84E-03
+vesicle membrane (GO:0012506)	1194	12	3.54	+	3.39	1.80E-04	6.53E-03
+endoplasmic reticulum (GO:0005783)	2014	20	5.97	+	3.35	7.85E-07	7.96E-05
+vesicle (GO:0031982)	3940	39	11.67	+	3.34	2.61E-14	5.29E-11
+extracellular space (GO:0005615)	3410	31	10.10	+	3.07	8.32E-10	1.69E-07
+organelle subcompartment (GO:0031984)	1493	12	4.42	+	2.71	1.32E-03	3.42E-02
+Golgi apparatus (GO:0005794)	1618	13	4.79	+	2.71	8.04E-04	2.30E-02
+extracellular region (GO:0005576)	4381	34	12.98	+	2.62	4.66E-09	8.58E-07
+bounding membrane of organelle (GO:0098588)	2112	16	6.26	+	2.56	3.39E-04	1.04E-02
+endomembrane system (GO:0012505)	4683	35	13.87	+	2.52	6.15E-09	1.04E-06
+organelle membrane (GO:0031090)	3649	22	10.81	+	2.04	6.00E-04	1.76E-02
+cell periphery (GO:0071944)	6392	34	18.93	+	1.80	7.49E-05	3.30E-03
+cytoplasm (GO:0005737)	11989	52	35.51	+	1.46	1.04E-05	6.22E-04
+membrane-bounded organelle (GO:0043227)	13136	56	38.91	+	1.44	7.24E-07	7.72E-05
+membrane (GO:0016020)	9911	42	29.36	+	1.43	1.24E-03	3.27E-02
+intracellular membrane-bounded organelle (GO:0043231)	12075	50	35.76	+	1.40	1.32E-04	5.23E-03
+organelle (GO:0043226)	13963	57	41.36	+	1.38	2.83E-06	2.12E-04
+intracellular organelle (GO:0043229)	13156	51	38.97	+	1.31	1.16E-03	3.17E-02

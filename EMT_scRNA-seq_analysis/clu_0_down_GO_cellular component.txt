@@ -1,0 +1,43 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20220202)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.5725227 Released 2021-11-16
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO cellular component complete	Homo sapiens - REFLIST (20595)	upload_1 (20)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+alveolar lamellar body (GO:0097208)	7	4	.01	+	 > 100	2.12E-10	1.07E-07
+multivesicular body lumen (GO:0097486)	7	4	.01	+	 > 100	2.12E-10	8.58E-08
+late endosome lumen (GO:0031906)	9	4	.01	+	 > 100	4.58E-10	1.33E-07
+lamellar body (GO:0042599)	17	7	.02	+	 > 100	8.47E-17	1.72E-13
+multivesicular body (GO:0005771)	63	8	.06	+	 > 100	1.61E-15	1.63E-12
+endosome lumen (GO:0031904)	35	4	.03	+	 > 100	5.18E-08	8.76E-06
+clathrin-coated endocytic vesicle (GO:0045334)	91	6	.09	+	67.90	3.41E-10	1.15E-07
+rough endoplasmic reticulum (GO:0005791)	81	3	.08	+	38.14	7.08E-05	4.95E-03
+collagen trimer (GO:0005581)	88	3	.09	+	35.11	8.98E-05	6.07E-03
+clathrin-coated vesicle (GO:0030136)	195	6	.19	+	31.68	2.76E-08	5.59E-06
+late endosome (GO:0005770)	287	8	.28	+	28.70	1.74E-10	1.17E-07
+coated vesicle (GO:0030135)	292	6	.28	+	21.16	2.84E-07	3.83E-05
+endocytic vesicle (GO:0030139)	342	7	.33	+	21.08	2.41E-08	5.42E-06
+secretory granule (GO:0030141)	870	9	.84	+	10.65	4.92E-08	9.06E-06
+secretory vesicle (GO:0099503)	1032	10	1.00	+	9.98	1.21E-08	3.07E-06
+lytic vacuole (GO:0000323)	731	7	.71	+	9.86	3.78E-06	3.48E-04
+lysosome (GO:0005764)	731	7	.71	+	9.86	3.78E-06	3.33E-04
+vacuole (GO:0005773)	828	7	.80	+	8.71	8.51E-06	6.64E-04
+endosome (GO:0005768)	999	8	.97	+	8.25	2.35E-06	2.27E-04
+endoplasmic reticulum membrane (GO:0005789)	1151	9	1.12	+	8.05	5.24E-07	5.90E-05
+endoplasmic reticulum subcompartment (GO:0098827)	1156	9	1.12	+	8.02	5.43E-07	5.79E-05
+nuclear outer membrane-endoplasmic reticulum membrane network (GO:0042175)	1173	9	1.14	+	7.90	6.14E-07	6.22E-05
+organelle subcompartment (GO:0031984)	1493	9	1.45	+	6.21	4.54E-06	3.68E-04
+cytoplasmic vesicle (GO:0031410)	2458	12	2.39	+	5.03	4.25E-07	5.38E-05
+intracellular vesicle (GO:0097708)	2461	12	2.39	+	5.02	4.30E-07	5.13E-05
+endoplasmic reticulum (GO:0005783)	2014	9	1.96	+	4.60	5.09E-05	3.82E-03
+extracellular space (GO:0005615)	3410	14	3.31	+	4.23	1.69E-07	2.44E-05
+vesicle (GO:0031982)	3940	15	3.83	+	3.92	9.94E-08	1.55E-05
+extracellular region (GO:0005576)	4381	14	4.25	+	3.29	4.07E-06	3.44E-04
+organelle membrane (GO:0031090)	3649	11	3.54	+	3.10	1.88E-04	1.23E-02
+endomembrane system (GO:0012505)	4683	13	4.55	+	2.86	6.53E-05	4.72E-03

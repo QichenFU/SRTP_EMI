@@ -1,0 +1,21 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20220202)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.5725227 Released 2021-11-16
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Homo sapiens - REFLIST (20595)	upload_1 (20)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+renal water transport (GO:0003097)	5	2	.00	+	 > 100	1.87E-05	3.26E-02
+surfactant homeostasis (GO:0043129)	16	4	.02	+	 > 100	3.09E-09	2.42E-05
+chemical homeostasis within a tissue (GO:0048875)	18	4	.02	+	 > 100	4.66E-09	2.43E-05
+respiratory gaseous exchange by respiratory system (GO:0007585)	53	5	.05	+	97.15	2.22E-09	3.48E-05
+tissue homeostasis (GO:0001894)	240	5	.23	+	21.45	3.05E-06	9.56E-03
+multicellular organismal homeostasis (GO:0048871)	367	7	.36	+	19.64	3.87E-08	1.52E-04
+anatomical structure homeostasis (GO:0060249)	288	5	.28	+	17.88	7.30E-06	1.63E-02
+chemical homeostasis (GO:0048878)	1126	8	1.09	+	7.32	5.69E-06	1.49E-02
+homeostatic process (GO:0042592)	1585	9	1.54	+	5.85	7.40E-06	1.45E-02
